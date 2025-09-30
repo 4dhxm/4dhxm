@@ -47,7 +47,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,webpack,vite,angular,mongodb,mysql,redis,python,cs,cpp,unity,godot,blender,azure,docker,git,github,figma,threejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,webpack,mongodb,mysql,redis,python,cs,cpp,unity,godot,blender,azure,docker,git,github,figma,threejs" />
 </p>
 
 ---
