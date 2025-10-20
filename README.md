@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham</h1>
-<h3 align="center">🎮 Full Stack Developer | Game Developer @ Shatter Labs</h3>
+<h3 align="center">🎮 Full Stack Developer | Game Developer @ Shatter Labs | Lead Developer @ Oryind</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pl0ox&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
