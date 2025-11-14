@@ -49,10 +49,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,webpack,mongodb,mysql,redis,python,cs,cpp,unity,godot,blender,azure,docker,git,github,figma,threejs" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pl0ox&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
