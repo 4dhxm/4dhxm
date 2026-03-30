@@ -1,51 +1,20 @@
-<h1 align="center">Hi 👋, I'm Adham</h1>
-<h3 align="center">🎮 Full Stack Developer | Game Developer @ Shatter Labs | Lead Developer @ Oryind</h3>
+## Adham Yasser
+Cairo, Egypt · Founder & CEO @ RelyCare · Studio Lead @ ShatterLabs
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pl0ox&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+> Building AI products deployed to real customers across multiple countries — self-funded, 100% equity, from Cairo.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pl0ox&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
-</p>
+| sessions processed | clinic partners | community | markets |
+|---|---|---|---|
+| 500+ | 15+ | 16k+ | EG · ZA · AE |
 
----
+**What I'm building**
+- 🟢 [RelyCare](https://relycare.app) — AI admin automation for speech therapy clinics · Next.js · Supabase · Gemini · Paddle
+- 🟢 [ShatterLabs](https://shattergrounds.com) — Indie game studio · 12-person team · Supercell dev on the team
 
-### 🔭 Current Work
-- Building [**SHATTERGROUNDS**](https://shattergrounds.com)
+**Stack**
+`TypeScript` `Next.js` `Python` `Swift` `Supabase` `PostgreSQL` `Gemini API` `LLM pipelines` `Vercel` `AWS EC2`
 
-### 👯 Collaboration
-- Open to **game prototypes, multiplayer systems, and full stack apps**
+**Background**
+CS @ Minya University (ranked 1st/580) · coding since 12 · Arabic, English, French · piano, road cycling
 
-### 🤝 Looking for
-- Help with **scaling real-time multiplayer backends**
-
-### 💬 Ask me about
-- **React, Next.js, Three.js, GSAP, Azure, WebGL, Unity, Godot**
-
-### ⚡ Fun fact
-- **I love what I do and could never get bored of it**
-
----
-
-## 🌐 Connect with me
-<p align="left">
-  <a href="mailto:adham@shatterlabs.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  <a href="https://instagram.com/4dhxm" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://www.youtube.com/c/pl0ox" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40" width="40" style="fill:red;" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,webpack,mongodb,mysql,redis,python,cs,cpp,unity,godot,blender,azure,docker,git,github,figma,threejs" />
-</p>
+📧 adham@relycare.app · [LinkedIn](https://linkedin.com/in/4dhxm)
