@@ -9,7 +9,8 @@ Cairo, Egypt · Founder & CEO @ RelyCare · Studio Lead @ ShatterLabs
 
 **What I'm building**
 - 🟢 [RelyCare](https://relycare.app) — AI admin automation for speech therapy clinics · Next.js · Supabase · Gemini · Paddle
-- 🟢 [ShatterLabs](https://shattergrounds.com) — Indie game studio · 12-person team · Supercell dev on the team
+- 🔴 [ShatterLabs](https://shattergrounds.com) [INACTIVE] — Indie game studio · 12-person team
+- 🔴 [Oryind](https://oryind.com) [INACTIVE] — Boutique Creative studio
 
 **Stack**
 `TypeScript` `Next.js` `Python` `Swift` `Supabase` `PostgreSQL` `Gemini API` `LLM pipelines` `Vercel` `AWS EC2`
