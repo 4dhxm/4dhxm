@@ -1,5 +1,5 @@
 ## Adham Yasser
-Cairo, Egypt · Founder & CEO @ RelyCare · Studio Lead @ ShatterLabs
+Cairo, Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ Shatter Labs
 
 > Building AI products deployed to real customers across multiple countries — self-funded, 100% equity, from Cairo.
 
