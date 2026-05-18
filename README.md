@@ -15,7 +15,7 @@ Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ ShatterLabs
 
 **Stack**
 
-`TypeScript` `Next.js` `Python` `Swift` `Supabase` `PostgreSQL` `Gemini API` `LLM pipelines` `Vercel` `AWS EC2`
+`TypeScript` `Next.js` `Python` `Swift` `Supabase` `PostgreSQL` `Gemini API` `Google Vertex AI` `LLM pipelines` `Vercel` `AWS`
 
 **Affiliations & Recognition**
 
