@@ -26,6 +26,6 @@ Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ ShatterLabs
 
 **Background**
 
-CS @ Minya National University (ranked 1st / 580) · coding since 12 · Arabic, English
+CS @ Minya National University (ranked 1st / 580) · coding since 12
 
 📧 adham@relycare.app · [LinkedIn](https://linkedin.com/in/4dhxm)
