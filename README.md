@@ -1,21 +1,31 @@
 ## Adham Yasser
-Cairo, Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ Shatter Labs
+Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ ShatterLabs
 
-> Building AI products deployed to real customers across multiple countries — self-funded, 100% equity, from Egypt.
+> Building AI products deployed to real customers across multiple countries self funded, from Egypt.
 
 | sessions processed | clinic partners | community | markets |
 |---|---|---|---|
 | 500+ | 15+ | 16k+ | EG · ZA · AE |
 
 **What I'm building**
-- 🟢 [RelyCare](https://relycare.app) — AI admin automation for speech therapy clinics · Next.js · Supabase · Gemini · Paddle
-- 🔴 [ShatterLabs](https://shattergrounds.com) [INACTIVE] — Indie game studio · 12-person team
-- 🔴 [Oryind](https://oryind.com) [INACTIVE] — Boutique Creative studio
+
+- 🟢 [RelyCare](https://relycare.app) — AI admin automation for speech therapy clinics
+- 🔴 [ShatterLabs](https://shattergrounds.com) [INACTIVE] — Indie game studio · ~14k total following · ~2k waitlist
+- 🔴 [Oryind](https://oryind.com) [INACTIVE] — Boutique web & creative studio
 
 **Stack**
+
 `TypeScript` `Next.js` `Python` `Swift` `Supabase` `PostgreSQL` `Gemini API` `LLM pipelines` `Vercel` `AWS EC2`
 
+**Affiliations & Recognition**
+
+- 🤝 Anthropic Official Partner — Claude Partner Network
+- ☁️ Google for Startups Cloud Program
+- 🎓 Google Developer Groups — Tech Lead, Minya National University
+- 🏆 a16z Talent Place
+
 **Background**
-CS @ Minya University (ranked 1st/580) · coding since 12 · Arabic, English, French · piano, road cycling
+
+CS @ Minya National University (ranked 1st / 580) · coding since 12 · Arabic, English
 
 📧 adham@relycare.app · [LinkedIn](https://linkedin.com/in/4dhxm)
