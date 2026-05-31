@@ -3,9 +3,9 @@ Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ ShatterLabs
 
 > Building AI products deployed to real customers across multiple countries self funded
 
-| sessions processed | clinic partners | community | markets |
-|---|---|---|---|
-| 500+ | 15+ | 16k+ | 🇪🇬 · 🇿🇦 · 🇦🇪 |
+| community | markets |
+|---|---|
+| 16k+ | 🇪🇬 · 🇿🇦 · 🇦🇪 |
 
 **What I'm building**
 
