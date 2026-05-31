@@ -10,6 +10,7 @@ Egypt · Founder & CEO @ RelyCare · Ex. Studio Lead @ ShatterLabs
 **What I'm building**
 
 - 🟢 [RelyCare](https://relycare.app) — AI admin automation for speech therapy clinics
+- 🟡 [Mennus](https://mennus.com) [PART-TIME] — Interactive QR menus and real time analytics for speciality cafes (micro saas)
 - 🔴 [ShatterLabs](https://shattergrounds.com) [INACTIVE] — Indie game studio · ~14k total following · ~2k waitlist
 - 🔴 [Oryind](https://oryind.com) [INACTIVE] — Boutique web & creative studio
 
