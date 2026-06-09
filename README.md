@@ -60,7 +60,7 @@ Self-funded from day one. Still going.
 ### Recognition
 
 [![Anthropic Claude Partner](https://img.shields.io/badge/-Anthropic_Claude_Partner-191919?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![Google for Startups](https://img.shields.io/badge/-Google_for_Startups-4285F4?style=flat-square&logo=google&logoColor=white)](https://startup.google.com)
+[![Google for Startups](https://img.shields.io/badge/-Google_for_Startups-4285F4?style=flat-square&logo=google&logoColor=white)](https://cloud.google.com/startup)
 
 <a href="https://elevenlabs.io/startup-grants"><img src="https://eleven-public-cdn.elevenlabs.io/payloadcms/cy7rxce8uki-IIElevenLabsGrants%201.webp" alt="ElevenLabs Grants" width="200"></a>
 
