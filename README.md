@@ -68,7 +68,10 @@ Self-funded from day one. Still going.
 
 ### Philosophy
 
-> "I don't wait until I have resources or permission. I build the thing, ship it to real users, and fund the next move with whatever I just built." — 20 years old, three ventures across four countries, one goal.
+> Military service in Egypt isn't optional. I've got a window. I don't know exactly how long.
+I shut down a game studio with 14,000 followers while it was still growing, not because it failed, because I wanted to build something harder. Before that I ran a web agency I didn't care about so RelyCare would have money to exist. That worked.
+First year CS, ranked first in a 580 person cohort, building a Speech Therapist + AAC platform for South Africa from Egypt, no co founder, no outside capital. I can't explain what that sentence looks like to someone from a place where none of those things are separate problems at once.
+The deadline is real. The rest I figure out as I go.
 
 <details>
 <summary>Random Facts</summary>
