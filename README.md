@@ -1,4 +1,4 @@
-# Hi, I'm Adham 👋
+# Hey, I'm Adham 👋
 
 📍 **Egypt → South Africa → UAE** | 🏗️ **Solo Founder** | 🎓 **Building instead of waiting**
 
@@ -19,15 +19,15 @@ Self-funded from day one. Still going.
 
 - 🩺 **[RelyCare](https://relycare.app)** — AI-powered clinical documentation and workflow automation for speech-language pathologists · active pilots in South Africa
 - 🍽️ **[Mennus](https://mennus.com)** *(part-time)* — QR menu SaaS with real-time analytics for specialty cafes · UAE & Egypt
-- 🎮 **[ShatterLabs](https://shattergrounds.com)** *(inactive)* — Indie game studio · 14k+ following · 2k waitlist · shut down to go deeper
+- 🎮 **[ShatterLabs](https://shattergrounds.com)** *(inactive)* — Indie game studio · 14k+ following · 2k waitlist · exited
 - 🔧 **[Oryind](https://oryind.com)** *(inactive)* — Web agency · funded RelyCare's first year of runway
 
 ## RelyCare in Detail
 
-- 🗣️ **RelyAAC** — Full AAC platform for multilingual South African contexts; 11 languages, caregiver-facing, Fitzgerald Key + AI page generation
-- 📋 **Session Planner** — Pre-session planning with carryover vocabulary tracking and AI image caching
+- 🗣️ **RelyAAC** — Full AAC platform for multilingual South African contexts; 11 languages, caregiver first, AI page generation
+- 📋 **Session Planner** — Pre-session planning with carryover vocabulary tracking
 - 📱 **Clinical Pipeline** — SOAP notes, progress tracking, parent comms via WhatsApp
-- 🔊 **Voice Layer** — ElevenLabs TTS + voice personalization; ElevenLabs grant recipient
+- 🔊 **AAC Voice Layer** — ElevenLabs TTS + voice personalization & cloning; ElevenLabs grant recipient
 
 ## GitHub Activity
 
@@ -36,7 +36,7 @@ Self-funded from day one. Still going.
 ## What I'm Doing
 
 - **Shipping RelyCare** — Letting SLPs stop doing admin and start doing therapy
-- **Building RelyAAC** — Full AAC platform with a late-June conference deadline
+- **Building RelyAAC** — First caregiver facing AAC which doesn't assume they already have clinical knowledge
 - **Running university simultaneously** — CS @ Minya National University, ranked 1st / 580
 - **Self-funding the whole thing** — One venture pays for the next. That's the model.
 
@@ -50,9 +50,11 @@ Self-funded from day one. Still going.
 
 ### Recognition
 
-- 🤝 **Anthropic Official Partner** — Claude Partner Network
-- ☁️ **Google for Startups** — Cloud Program
-- 🏆 **a16z Talent Place**
+[![Anthropic Claude Partner](https://img.shields.io/badge/-Anthropic_Claude_Partner-191919?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Google for Startups](https://img.shields.io/badge/-Google_for_Startups-4285F4?style=flat-square&logo=google&logoColor=white)](https://startup.google.com)
+
+<a href="https://elevenlabs.io/startup-grants"><img src="https://eleven-public-cdn.elevenlabs.io/payloadcms/cy7rxce8uki-IIElevenLabsGrants%201.webp" alt="ElevenLabs Grants" width="200"></a>
+
 - 🎓 **Google Developer Groups** — Tech Lead, Minya National University
 
 ### Philosophy
@@ -63,10 +65,10 @@ Self-funded from day one. Still going.
 <summary>Random Facts</summary>
 
 - Funded a healthcare AI startup by running a web agency first
-- Built an indie game studio to 14k followers, then shut it down on purpose
+- Built an indie game studio to 14k followers, then exited it when it had so much potential
 - Coding since age 12
-- Ranked 1st in a 580-person CS cohort while shipping production software to real clinics
-- Road cycling, cooking, piano
+- Ranked 1st in a ~580 person CS cohort while shipping production software to real clinics
+- Love road cycling & piano
 - Egypt 🇪🇬 · South Africa 🇿🇦 · UAE 🇦🇪
 
 </details>
