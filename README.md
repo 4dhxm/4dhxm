@@ -68,10 +68,10 @@ Self-funded from day one. Still going.
 
 ### Philosophy
 
-> Military service in Egypt isn't optional. I've got a window. I don't know exactly how long.
-I shut down a game studio with 14,000 followers while it was still growing, not because it failed, because I wanted to build something harder. Before that I ran a web agency I didn't care about so RelyCare would have money to exist. That worked.
-First year CS, ranked first in a 580 person cohort, building a Speech Therapist + AAC platform for South Africa from Egypt, no co founder, no outside capital. I can't explain what that sentence looks like to someone from a place where none of those things are separate problems at once.
-The deadline is real. The rest I figure out as I go.
+> The military conscription clock is running. I have until 2027 to find an exit
+Every line of code I write from this bedroom in Egypt is a crowbar. I shut down projects that were working because they weren't hard enough, and I self-funded clinical software because it actually mattered.
+It is hard to explain what it looks like to fight capital controls and systemic isolation just to push software across borders.
+The deadline is real. The rest I figure out on the run
 
 <details>
 <summary>Random Facts</summary>
