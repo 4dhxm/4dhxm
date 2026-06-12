@@ -66,13 +66,6 @@ Self-funded from day one. Still going.
 
 - 🎓 **Google Developer Groups** — Tech Lead, Minya National University
 
-### Philosophy
-
-> The military conscription clock is running. I have until 2027 to find an exit
-Every line of code I write from this bedroom in Egypt is a crowbar. I shut down projects that were working because they weren't hard enough, and I self-funded clinical software because it actually mattered.
-It is hard to explain what it looks like to fight capital controls and systemic isolation just to push software across borders.
-The deadline is real. The rest I figure out on the run
-
 <details>
 <summary>Random Facts</summary>
 
@@ -82,5 +75,14 @@ The deadline is real. The rest I figure out on the run
 - Ranked 1st in a ~580 person CS cohort while shipping production software to real clinics
 - Love road cycling & piano
 - Egypt 🇪🇬 · South Africa 🇿🇦 · UAE 🇦🇪
+
+
+### Philosophy
+
+> The military conscription clock is running. I have until 2027 to find an exit
+Every line of code I write from this bedroom in Egypt is a crowbar. I shut down projects that were working because they weren't hard enough, and I self-funded clinical software because it actually mattered.
+It is hard to explain what it looks like to fight capital controls and systemic isolation just to push software across borders.
+The deadline is real. The rest I figure out on the run
+
 
 </details>
