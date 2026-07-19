@@ -74,7 +74,5 @@ Self-funded from day one. Still going.
 - Coding since age 12
 - Ranked 1st in a ~580 person CS cohort while shipping production software to real clinics
 - Love road cycling & piano
-- Egypt 🇪🇬 · South Africa 🇿🇦 · UAE 🇦🇪
-
 
 </details>
