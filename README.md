@@ -26,7 +26,7 @@ Self-funded from day one. Still going.
 
 ## What I'm Building
 
-- 🩺 **[RelyCare](https://relycare.app)** — AI-powered documentation and progress tracking for speech-language pathologists · active pilots in South Africa
+- 🩺 **[RelyCare](https://relycare.app)** — AI-powered documentation and progress tracking for speech-language pathologists · active pilots in South Africa & US
 - 🍽️ **[Mennus](https://mennus.com)** *(part-time)* — QR menu SaaS with real-time analytics for specialty cafes · UAE & Egypt
 - 🎮 **[ShatterLabs](https://shattergrounds.com)** *(inactive)* — Indie game studio · 14k+ following · 2k waitlist · exited
 - 🔧 **[Oryind](https://oryind.com)** *(inactive)* — Web agency · funded RelyCare's first year of runway
