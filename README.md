@@ -1,6 +1,7 @@
 # Hey, I'm Adham 👋
 
 📍 **Egypt → UAE → South Africa → US** | **Solo Founder** 
+📖 **[Personal Site](https://adhamy.com)**
 
 CEO @ **[RelyCare](https://relycare.app)** — shipping AI to speech therapy clinics in South Africa.
 Self-funded from day one. Still going.
