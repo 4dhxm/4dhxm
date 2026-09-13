@@ -5,7 +5,6 @@
 📖 **[Personal Site](https://adhamy.com)**
 
 CEO @ **[RelyCare](https://relycare.app)** — shipping AI to speech therapy clinics in South Africa.
-Self-funded from day one. Still going.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,7 +48,6 @@ Self-funded from day one. Still going.
 - **Shipping RelyCare** — Letting SLPs stop doing admin and start doing therapy
 - **Building RelyAAC** — First caregiver facing AAC which doesn't assume they already have clinical knowledge
 - **Running university simultaneously** — CS @ Minya National University, ranked 1st / 580
-- **Self-funding the whole thing** — One venture pays for the next. That's the model.
 
 ## Connect
 
@@ -72,7 +70,7 @@ Self-funded from day one. Still going.
 <summary>Random Facts</summary>
 
 - Funded a healthcare AI startup by running a web agency first
-- Built an indie game studio to 14k followers, then exited it when it had so much potential
+- Built an indie game studio to 14k followers, then exited
 - Coding since age 12
 - Ranked 1st in a ~580 person CS cohort while shipping production software to real clinics
 - Love road cycling & piano
